@@ -1,7 +1,13 @@
-## Đây là source code của ứng dụng TODO APP bằng React + Redux
-Video tutorial: https://youtu.be/g_K1w8e0lLo \
-Live Demo: https://focused-engelbart-3d0ac1.netlify.app/ \
+## Đây là source code của ứng dụng TODO APP 
 **⚠️ Lưu ý**: Source code chạy ổn định trên Node 16
+
+Chạy lệnh `yarn install --frozen-lockfile` để cài đặt các packages đúng phiên bản 
+
+Sử dụng Node 16 để chạy Source code (Không dùng các Node Version cao hơn) 
+
+Chạy app: `yarn start`
+
+© Copyright: Cloudian ⋆｡ﾟ☁︎｡⋆𓂃 ོ☼𓂃 
 
 # Getting Started with Create React App
 

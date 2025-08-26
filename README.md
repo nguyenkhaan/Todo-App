@@ -7,7 +7,7 @@ Sử dụng Node 16 để chạy Source code (Không dùng các Node Version cao
 
 Chạy app: `yarn start`
 
-© Copyright: Cloudian ⋆｡ﾟ☁︎｡⋆𓂃 ོ☼𓂃 
+© Copyright: HoleTex and Cloudian ⋆｡ﾟ☁︎｡⋆𓂃 ོ☼𓂃 
 
 # Getting Started with Create React App
 
